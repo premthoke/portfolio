@@ -1,4 +1,6 @@
-# cd-portfolio-
-I am Prem Thoke studying 2nd year btech in electronics and computer science from VIT Mumbai <br>
-I had learned C, C++ and Java before I started my engineering degree<br>
 
+# My Portfolio
+
+Name: Prem Thoke  
+Skills: C, C++, Java, Advanced Java, CSS  
+Links: - [GitHub](https://github.com/premthoke)
