@@ -3,4 +3,4 @@
 
 Name: Prem Thoke  
 Skills: C, C++, Java, Advanced Java, html/css/js.
-Links: - [GitHub](https://github.com/premthoke)
+Links: [GitHub](https://github.com/premthoke)
